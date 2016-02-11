@@ -1,0 +1,12 @@
+README
+
+Instructions for running Assignment 2: Association Analysis
+
+APRIORI ALGORITHM
+
+The apriori alogorithm is implemented in the apriori_algorithm.m function
+
+To test the apriori fuction on the given data sets (Market and Gene),
+open the market_data_apriori.m and gene_data_apriori.m files in MATLAB
+and run them seperately. Candidate and frequency itemsets will appear in 
+the command window.
